@@ -1,1 +1,2 @@
-this text will be replaced
+
+this will be the conflict
